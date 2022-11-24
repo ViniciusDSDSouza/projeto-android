@@ -67,10 +67,6 @@ a {
   text-decoration: none;
 }
 
-a.blank::after {
-  content: '\ \1F517';
-}
-
 nav a {
   color: var(--cor1);
   padding: 10px;
